@@ -209,10 +209,13 @@ body {
     gap: 24px;
 }
 
-.redes img {
-    width: 24px;
-    height: 24px;
+.redes ul {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    list-style: none;
 }
+
 
 
 .text-preset1 {
